@@ -1,0 +1,1 @@
+I have defined all the functions and classes that will be used in my project, including showing data, adding data, randomly selecting data and making connections between columns of database. Next task is to build website and realize all the functions.
